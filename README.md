@@ -1,2 +1,0 @@
-# newgigorepo
-Gigo repo
